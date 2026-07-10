@@ -159,3 +159,26 @@ p{
 /* ----------------------------------------------------------------------------------------------------- */
 
 
+
+#secure-spot{
+
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
+  margin: 60px 0 0 0
+}
+
+#early-bird{
+  font-weight: light;
+  text-align: center;
+  font-size: 20px;
+  color:#6b7280;
+  margin: 10px 0 20px 0;
+}
+
+
+/* ---------------------------------------------------------------------------------- */
+
+
+
+
