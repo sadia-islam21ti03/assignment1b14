@@ -75,9 +75,13 @@ div {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  font-size: 25px;
   padding: 16px 32px;
   border-radius: 8px;
-  margin-top:353px
+  margin-top:353px;
+  height:40px;
+  width: 150px;
+
 }
 
 
@@ -85,7 +89,10 @@ div {
 
 
 p{
- font-size:75PX;
+ font-size:75px;
  text-align : center;
  font-weight: bold;
 }
+
+
+/* --------------------------------------------------------------------------------- */
