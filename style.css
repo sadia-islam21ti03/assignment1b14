@@ -191,7 +191,7 @@ p{
   padding: 40px 30px;
   border: 1px solid #e5e7eb;
   border-radius: 10px;
-  background: white;
+  background: rgb(230, 226, 226);
   font-size: 21px;
   text-align: left;
 }
@@ -220,7 +220,7 @@ p{
 }
 
 .pro .plan-price {
-  color: white;
+  color: rgb(170, 164, 164);
 }
 
 .person-number{
@@ -236,7 +236,7 @@ p{
 
 .pricing-card hr {
   border: none;
-  border-top: 1px solid #e5e7eb;
+  border-top: 1px solid rgb(192, 182, 182);
   margin-bottom: 20px;
 }
 
