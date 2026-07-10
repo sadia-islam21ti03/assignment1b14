@@ -21,7 +21,7 @@ div {
 }
 
 #a6 {
-  background: rgb(41, 41, 96);
+  background-color: rgb(78, 78, 226);
   color: white;
   text-decoration: none;
   padding: 10px 20px;
@@ -35,3 +35,45 @@ div {
 /* ---------------------------------------------------------------------------- */
 
 
+
+#hero-banner {
+  width: 100vw;
+  height: 700px;
+  background-image: url("assets/banner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#hero-overlay {
+  width: 100vw;
+  height: 100px;
+  background-color:  rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding-top: 40px;
+}
+
+#hero-heading {
+  color: white;
+  font-size: 80px;
+  font-weight: bold;
+  margin: 0 0 20px 0;
+}
+
+#hero-text {
+  color: white;
+  font-size: 21px;
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#hero-button {
+  display: inline-block;
+  background: rgb(79, 70, 229);
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 16px 32px;
+  border-radius: 8px;
+  margin-top:350px
+}
