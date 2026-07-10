@@ -1,3 +1,9 @@
+/* body {
+  margin: 0;
+  padding: 0;
+} */
+
+
 #head-logo {
   margin-left: 40px;
 }
@@ -8,8 +14,8 @@ div {
 }
 
 #head-links {
-  margin-right: 700px;
-  margin-left: 590px;
+  margin-right: 550px;
+  margin-left: 480px;
 }
 
 
@@ -96,3 +102,60 @@ p{
 
 
 /* --------------------------------------------------------------------------------- */
+
+
+
+#speakers-section {
+  display: block;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 40px;
+  background: white; 
+  text-align: center;
+}
+
+.speaker-card {
+  /* display: inline-block; */
+  box-sizing: border-box;
+  width: 390px;
+  margin: 10px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 16px;
+  text-align: left;
+}
+
+#img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.speaker-tag {
+  display : block;
+  text-align:left;
+  color: #4f46e5;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 15px 15px 5px 15px;
+}
+
+.speaker-name {
+  display : block;
+  margin: 5px 15px;
+  font-size: 18px;
+  text-align:left;
+}
+
+.speaker-role {
+  display : block;
+  text-align:left;
+  color: #6b7280;
+  font-size: 14px;
+  margin: 0 15px 15px 15px;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+
