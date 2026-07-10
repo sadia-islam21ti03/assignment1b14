@@ -1,0 +1,35 @@
+#head-logo {
+  margin-left: 40px;
+}
+
+div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#head-links {
+  margin-right: 265px;
+  margin-left: 265px;
+}
+
+
+#a1, #a2, #a3, #a4, #a5 {
+  color: grey;
+  text-decoration: none;
+  font-size: 15px;
+  margin: 0 12px;
+}
+
+#a6 {
+  background: rgb(41, 41, 96);
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+
+/* ---------------------------------------------------------------------------- */
+
+
