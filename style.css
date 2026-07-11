@@ -282,6 +282,45 @@ p{
 }
 
 
+/* ------------------------------------------------------------------------------------------ */
+
+
+
+#faq-section {
+  display:block;
+  width: 800px;
+  margin: 60px auto;
+  padding: 40px;
+}
+
+#faq-heading {
+   display:block;
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.faq-item {
+   display:block;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 20px 0;
+}
+
+.faq-question {
+   display:block;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+.faq-answer {
+   display:block;
+  font-size: 15px;
+  color: #6b7280;
+  margin: 0;
+}
+
+
 /* ------------------------------------------------------------------------------------------------------ */
 
 
